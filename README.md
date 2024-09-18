@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://tkpp26.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFEFE&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shizuka+Takao;Software+Developer+from+CA%2C+USA" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://tkpp26.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFEFE&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shizuka;a+3rd-year+CS+student+@UC+Irvine" alt="Typing SVG" /></a></h1>
 
 Recently, I’ve been working on a Clothing Recommendation App that utilizes Convolutional Neural Networks (CNNs) to analyze user-uploaded images and recommend similar clothing items. Currently, I am learning to implement image segmentation and masking techniques to improve the app's ability to handle various backgrounds. In addition to this, I’m developing a music recommendation app where I aim to analyze audio spectrograms and integrate this with CSV data from Kaggle to enhance the recommendation accuracy.
 
