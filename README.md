@@ -28,3 +28,5 @@ Recently, I’ve been working on a Clothing Recommendation App that utilizes Con
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkpp26&show_icons=true&locale=en&layout=compact" alt="tkpp26" /></p>
