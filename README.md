@@ -1,7 +1,5 @@
 ## Hey there! I'm Shizuka, a 3rd-year CS student @ UC Irvine
 
-Recently, I’ve been working on a Clothing Recommendation App that utilizes Convolutional Neural Networks (CNNs) to analyze user-uploaded images and recommend similar clothing items. Currently, I am learning to implement image segmentation and masking techniques to improve the app's ability to handle various backgrounds. In addition to this, I’m developing a music recommendation app where I aim to analyze audio spectrograms and integrate this with CSV data from Kaggle to enhance the recommendation accuracy.
-
 - 💫 I'm currently working on [Clothing Recommendation web app](https://github.com/khmorad/clothingRecommendationApp)
 
 - 🍀 I'm currently learning **Flask**
