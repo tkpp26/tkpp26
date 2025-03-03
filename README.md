@@ -2,9 +2,7 @@
 
 - 💫 I'm currently working on [Clothing Recommendation web app](https://github.com/khmorad/clothingRecommendationApp)
 
-- 🍀 I'm currently learning **Flask**
-
-- 🌸 I'd love to chat, so feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/shizukatakao/)
+- 🌸 I'm currently learning **Flask**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
    
