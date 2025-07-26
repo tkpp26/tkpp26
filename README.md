@@ -8,4 +8,3 @@ I am currently...
 - 💭 low-key plotting my second act as a pilates instructor
 - 🦫 ultimately dreaming of becoming a capybara
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
