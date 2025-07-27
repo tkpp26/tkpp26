@@ -1,4 +1,4 @@
-## Hi:) I'm Shizuka, a rising senior majoring in Computer Science @ UC Irvine
+## Hi, I'm Shizuka, a rising senior majoring in Computer Science @ UC Irvine
 
 <img align="right" src="https://media.tenor.com/GKrVFdc40DEAAAAM/pusheen-cat-capybara.gif" width="250" alt="Pusheen riding capybara">
 
