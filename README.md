@@ -1,12 +1,5 @@
 <h1 align="center">Hi there! 🐣 I'm Shizuka Takao</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shizukatakao" target="_blank">🌐 LinkedIn</a> •
-  <a href="https://shizuka-takao.com" target="_blank">📁 Portfolio</a> •
-  <a href="mailto:shizukat@uci.edu">📬 Email</a>
-</p>
-
----
 
 ### 🎓 Education  
  <strong>University of California, Irvine</strong>  
