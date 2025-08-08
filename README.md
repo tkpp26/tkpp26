@@ -9,7 +9,7 @@
 - Computational Biology
 ### 🌻 Currently learning...
 - PyTorch
-- Biomedical Imageing & Segmentation
+- Biomedical Imaging & Segmentation
 ### ❄️ You might find me...
 - Secretly training for my Pilates instructor arc
 - Making questionable chess moves at 2 a.m.
