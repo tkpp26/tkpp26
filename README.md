@@ -2,14 +2,15 @@
 
 ### 🌸 What I'm Up To  
 - Undergraduate researcher working on [FISH-ML](https://github.com/UCI-Ding-Lab/FISH-ML/tree/main)
-- BreakThroughTech AI fellow @ Cornell University
-- Data science intern @ AI Studio
+- BreakThroughTech AI Fellow @ Cornell University
+- Machine Learning Fellow @ American Express
 ### 🌿 Interests  
 - Machine Learning & Deep Learning
-- Computational Biology
+- Computer Vision
 ### 🌻 Currently learning...
 - PyTorch
 - Biomedical Imaging & Segmentation
 ### ❄️ You might find me...
 - Secretly training for my Pilates instructor arc
-- Making questionable chess moves at 2 a.m.
+- Making questionable chess moves at 2 am
+- Pretending to know what I’m doing with music
