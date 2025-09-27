@@ -10,7 +10,3 @@
 ### 🌻 Currently learning...
 - PyTorch
 - Biomedical Imaging & Segmentation
-### ❄️ You might find me...
-- Secretly training for my Pilates instructor arc
-- Making questionable chess moves at 2 am
-- Pretending to know what I’m doing with music
